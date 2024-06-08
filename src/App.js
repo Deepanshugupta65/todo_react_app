@@ -129,7 +129,7 @@ export default function App() {
 									createTask();
 									setOpened(false);
 								}}>
-								Create Task
+							   register task
 							</Button>
 						</Group>
 					</Modal>
@@ -140,7 +140,7 @@ export default function App() {
 									fontFamily: `Greycliff CF, ${theme.fontFamily}`,
 									fontWeight: 900,
 								})}>
-								My Tasks
+								write Tasks
 							</Title>
 							<ActionIcon
 								color={'blue'}
